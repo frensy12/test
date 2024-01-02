@@ -1,0 +1,19 @@
+.title1 {
+   font-family: monospace;
+   text-align: left;
+   font-size: 70px;
+   color: white;
+}
+
+.søkefelt {
+    font-size: xx-large;
+    border-radius: 15px;
+}
+
+.søkefelt1 {
+    font-size: xx-large;
+    border-radius: 45px;
+}
+
+body 
+{background-color: gray;}
